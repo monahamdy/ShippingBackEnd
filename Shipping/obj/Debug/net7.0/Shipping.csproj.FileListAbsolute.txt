@@ -1,0 +1,356 @@
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\appsettings.Development.json
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\appsettings.json
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Shipping.exe
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Shipping.deps.json
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Shipping.runtimeconfig.json
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Shipping.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Shipping.pdb
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Azure.Core.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Azure.Identity.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Humanizer.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\System.CodeDom.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\System.Memory.Data.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\iti\Web API\Shipping\Shipping\obj\Debug\net7.0\Shipping.csproj.AssemblyReference.cache
+D:\iti\Web API\Shipping\Shipping\obj\Debug\net7.0\Shipping.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\Web API\Shipping\Shipping\obj\Debug\net7.0\Shipping.AssemblyInfoInputs.cache
+D:\iti\Web API\Shipping\Shipping\obj\Debug\net7.0\Shipping.AssemblyInfo.cs
+D:\iti\Web API\Shipping\Shipping\obj\Debug\net7.0\Shipping.csproj.CoreCompileInputs.cache
+D:\iti\Web API\Shipping\Shipping\obj\Debug\net7.0\Shipping.MvcApplicationPartsAssemblyInfo.cs
+D:\iti\Web API\Shipping\Shipping\obj\Debug\net7.0\Shipping.MvcApplicationPartsAssemblyInfo.cache
+D:\iti\Web API\Shipping\Shipping\obj\Debug\net7.0\staticwebassets\msbuild.Shipping.Microsoft.AspNetCore.StaticWebAssets.props
+D:\iti\Web API\Shipping\Shipping\obj\Debug\net7.0\staticwebassets\msbuild.build.Shipping.props
+D:\iti\Web API\Shipping\Shipping\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Shipping.props
+D:\iti\Web API\Shipping\Shipping\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Shipping.props
+D:\iti\Web API\Shipping\Shipping\obj\Debug\net7.0\staticwebassets.pack.json
+D:\iti\Web API\Shipping\Shipping\obj\Debug\net7.0\staticwebassets.build.json
+D:\iti\Web API\Shipping\Shipping\obj\Debug\net7.0\staticwebassets.development.json
+D:\iti\Web API\Shipping\Shipping\obj\Debug\net7.0\scopedcss\bundle\Shipping.styles.css
+D:\iti\Web API\Shipping\Shipping\obj\Debug\net7.0\Shipping.csproj.CopyComplete
+D:\iti\Web API\Shipping\Shipping\obj\Debug\net7.0\Shipping.dll
+D:\iti\Web API\Shipping\Shipping\obj\Debug\net7.0\refint\Shipping.dll
+D:\iti\Web API\Shipping\Shipping\obj\Debug\net7.0\Shipping.pdb
+D:\iti\Web API\Shipping\Shipping\obj\Debug\net7.0\Shipping.genruntimeconfig.cache
+D:\iti\Web API\Shipping\Shipping\obj\Debug\net7.0\ref\Shipping.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\System.Web.Cors.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\System.Web.Http.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\System.Web.Http.Cors.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\iti\Web API\Shipping\Shipping\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Shipping\Shipping\obj\Debug\net7.0\Shipping.dll
+D:\Shipping\Shipping\obj\Debug\net7.0\refint\Shipping.dll
+D:\Shipping\Shipping\obj\Debug\net7.0\Shipping.pdb
+D:\Shipping\Shipping\bin\Debug\net7.0\appsettings.Development.json
+D:\Shipping\Shipping\bin\Debug\net7.0\appsettings.json
+D:\Shipping\Shipping\bin\Debug\net7.0\Shipping.exe
+D:\Shipping\Shipping\bin\Debug\net7.0\Shipping.deps.json
+D:\Shipping\Shipping\bin\Debug\net7.0\Shipping.runtimeconfig.json
+D:\Shipping\Shipping\bin\Debug\net7.0\Shipping.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Shipping.pdb
+D:\Shipping\Shipping\bin\Debug\net7.0\Azure.Core.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Azure.Identity.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Humanizer.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\System.Web.Cors.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\System.Web.Http.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\System.Web.Http.Cors.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\System.CodeDom.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Shipping\Shipping\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Shipping\Shipping\obj\Debug\net7.0\Shipping.csproj.AssemblyReference.cache
+D:\Shipping\Shipping\obj\Debug\net7.0\Shipping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shipping\Shipping\obj\Debug\net7.0\Shipping.AssemblyInfoInputs.cache
+D:\Shipping\Shipping\obj\Debug\net7.0\Shipping.AssemblyInfo.cs
+D:\Shipping\Shipping\obj\Debug\net7.0\Shipping.csproj.CoreCompileInputs.cache
+D:\Shipping\Shipping\obj\Debug\net7.0\Shipping.MvcApplicationPartsAssemblyInfo.cs
+D:\Shipping\Shipping\obj\Debug\net7.0\Shipping.MvcApplicationPartsAssemblyInfo.cache
+D:\Shipping\Shipping\obj\Debug\net7.0\staticwebassets\msbuild.Shipping.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Shipping\Shipping\obj\Debug\net7.0\staticwebassets\msbuild.build.Shipping.props
+D:\Shipping\Shipping\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Shipping.props
+D:\Shipping\Shipping\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Shipping.props
+D:\Shipping\Shipping\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Shipping\Shipping\obj\Debug\net7.0\staticwebassets.build.json
+D:\Shipping\Shipping\obj\Debug\net7.0\staticwebassets.development.json
+D:\Shipping\Shipping\obj\Debug\net7.0\scopedcss\bundle\Shipping.styles.css
+D:\Shipping\Shipping\obj\Debug\net7.0\Shipping.csproj.CopyComplete
+D:\Shipping\Shipping\obj\Debug\net7.0\Shipping.genruntimeconfig.cache
+D:\Shipping\Shipping\obj\Debug\net7.0\ref\Shipping.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\appsettings.Development.json
+F:\Shipping\Shipping\bin\Debug\net7.0\appsettings.json
+F:\Shipping\Shipping\bin\Debug\net7.0\Shipping.exe
+F:\Shipping\Shipping\bin\Debug\net7.0\Shipping.deps.json
+F:\Shipping\Shipping\bin\Debug\net7.0\Shipping.runtimeconfig.json
+F:\Shipping\Shipping\bin\Debug\net7.0\Shipping.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Shipping.pdb
+F:\Shipping\Shipping\bin\Debug\net7.0\Azure.Core.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Azure.Identity.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Humanizer.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\System.Web.Cors.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\System.Web.Http.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\System.Web.Http.Cors.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\System.CodeDom.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Shipping\Shipping\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Shipping\Shipping\obj\Debug\net7.0\Shipping.csproj.AssemblyReference.cache
+F:\Shipping\Shipping\obj\Debug\net7.0\Shipping.GeneratedMSBuildEditorConfig.editorconfig
+F:\Shipping\Shipping\obj\Debug\net7.0\Shipping.AssemblyInfoInputs.cache
+F:\Shipping\Shipping\obj\Debug\net7.0\Shipping.AssemblyInfo.cs
+F:\Shipping\Shipping\obj\Debug\net7.0\Shipping.csproj.CoreCompileInputs.cache
+F:\Shipping\Shipping\obj\Debug\net7.0\Shipping.MvcApplicationPartsAssemblyInfo.cs
+F:\Shipping\Shipping\obj\Debug\net7.0\Shipping.MvcApplicationPartsAssemblyInfo.cache
+F:\Shipping\Shipping\obj\Debug\net7.0\staticwebassets\msbuild.Shipping.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Shipping\Shipping\obj\Debug\net7.0\staticwebassets\msbuild.build.Shipping.props
+F:\Shipping\Shipping\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Shipping.props
+F:\Shipping\Shipping\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Shipping.props
+F:\Shipping\Shipping\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Shipping\Shipping\obj\Debug\net7.0\staticwebassets.build.json
+F:\Shipping\Shipping\obj\Debug\net7.0\staticwebassets.development.json
+F:\Shipping\Shipping\obj\Debug\net7.0\scopedcss\bundle\Shipping.styles.css
+F:\Shipping\Shipping\obj\Debug\net7.0\Shipping.csproj.CopyComplete
+F:\Shipping\Shipping\obj\Debug\net7.0\Shipping.dll
+F:\Shipping\Shipping\obj\Debug\net7.0\refint\Shipping.dll
+F:\Shipping\Shipping\obj\Debug\net7.0\Shipping.pdb
+F:\Shipping\Shipping\obj\Debug\net7.0\Shipping.genruntimeconfig.cache
+F:\Shipping\Shipping\obj\Debug\net7.0\ref\Shipping.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\appsettings.Development.json
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\appsettings.json
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Shipping.exe
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Shipping.deps.json
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Shipping.runtimeconfig.json
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Shipping.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Shipping.pdb
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Azure.Core.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Azure.Identity.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Humanizer.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\System.Web.Cors.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\System.Web.Http.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\System.Web.Http.Cors.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\System.CodeDom.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\System.Memory.Data.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\iti\Graduation Project\Shipping\Shipping\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\iti\Graduation Project\Shipping\Shipping\obj\Debug\net7.0\Shipping.csproj.AssemblyReference.cache
+D:\iti\Graduation Project\Shipping\Shipping\obj\Debug\net7.0\Shipping.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\Graduation Project\Shipping\Shipping\obj\Debug\net7.0\Shipping.AssemblyInfoInputs.cache
+D:\iti\Graduation Project\Shipping\Shipping\obj\Debug\net7.0\Shipping.AssemblyInfo.cs
+D:\iti\Graduation Project\Shipping\Shipping\obj\Debug\net7.0\Shipping.csproj.CoreCompileInputs.cache
+D:\iti\Graduation Project\Shipping\Shipping\obj\Debug\net7.0\Shipping.MvcApplicationPartsAssemblyInfo.cs
+D:\iti\Graduation Project\Shipping\Shipping\obj\Debug\net7.0\Shipping.MvcApplicationPartsAssemblyInfo.cache
+D:\iti\Graduation Project\Shipping\Shipping\obj\Debug\net7.0\staticwebassets\msbuild.Shipping.Microsoft.AspNetCore.StaticWebAssets.props
+D:\iti\Graduation Project\Shipping\Shipping\obj\Debug\net7.0\staticwebassets\msbuild.build.Shipping.props
+D:\iti\Graduation Project\Shipping\Shipping\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Shipping.props
+D:\iti\Graduation Project\Shipping\Shipping\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Shipping.props
+D:\iti\Graduation Project\Shipping\Shipping\obj\Debug\net7.0\staticwebassets.pack.json
+D:\iti\Graduation Project\Shipping\Shipping\obj\Debug\net7.0\staticwebassets.build.json
+D:\iti\Graduation Project\Shipping\Shipping\obj\Debug\net7.0\staticwebassets.development.json
+D:\iti\Graduation Project\Shipping\Shipping\obj\Debug\net7.0\scopedcss\bundle\Shipping.styles.css
+D:\iti\Graduation Project\Shipping\Shipping\obj\Debug\net7.0\Shipping.csproj.CopyComplete
+D:\iti\Graduation Project\Shipping\Shipping\obj\Debug\net7.0\Shipping.dll
+D:\iti\Graduation Project\Shipping\Shipping\obj\Debug\net7.0\refint\Shipping.dll
+D:\iti\Graduation Project\Shipping\Shipping\obj\Debug\net7.0\Shipping.pdb
+D:\iti\Graduation Project\Shipping\Shipping\obj\Debug\net7.0\Shipping.genruntimeconfig.cache
+D:\iti\Graduation Project\Shipping\Shipping\obj\Debug\net7.0\ref\Shipping.dll
